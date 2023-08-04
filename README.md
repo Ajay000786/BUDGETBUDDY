@@ -3,8 +3,8 @@
 ## Overview
 The Daily Expense Tracker is a simple web application designed to help users track their daily expenses and manage their finances effectively. It provides an intuitive user interface that allows users to add, view, and analyze their expenses conveniently. By keeping a close eye on their spending habits, users can make informed decisions about their finances, set budgets, and work towards achieving their financial goals.
 
-Features
-Expense Entry: Users can log their daily expenses by providing details such as date, category (e.g., groceries, entertainment, utilities), amount, and a short description.
+## Features
+### Expense Entry: Users can log their daily expenses by providing details such as date, category (e.g., groceries, entertainment, utilities), amount, and a short description.
 
 Budget Setting: Users have the option to set monthly or weekly budgets for specific expense categories. The tracker will provide visual cues and alerts when the user is approaching or exceeding their budget limits.
 
